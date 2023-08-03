@@ -95,7 +95,7 @@
             var username = document.getElementById('username').value;
             var password = document.getElementById('password').value;
 
-            // You can implement the login logic here.
+            // You can implement the login logic here
             // For this example, we'll just display the entered credentials in an alert.
             alert("Username: " + username + "\nPassword: " + password);
         }
